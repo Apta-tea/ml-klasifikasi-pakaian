@@ -152,7 +152,7 @@ plt.imshow(pixels, cmap='gray')
 plt.show()
 #predict external image file, place the file in the same directory with grayscale - 28x28 pixel condition
 #use ext_img() function like below & change the parameter value with your file
-ext_img("pic1.jpg")
+ext_img("pic2.jpg")
 
      
 
