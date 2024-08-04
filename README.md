@@ -7,11 +7,11 @@ Machine learning-kepintaran buatan dasar yang mengklasifikasi pakaian dengan fra
 
 ## How to Install
 
--   clone the repo, exp: git clone https://github.com/Apta-tea/klasifikasi-pakaian.git
+-   clone reponya, cth: git clone https://github.com/Apta-tea/ml-klasifikasi-pakaian.git
 -   requirement Python 3.11.^
 -   import library yang dibutuhkan cth: pip install tensorlow
--   buy me a cup of coffee? [&#9749;](https://teer.id/apta-tea)
--   any bug, just info me on repo issues
+-   aya mereun? [&#9749;](https://teer.id/apta-tea)
+-   ada bug?, infokan  di repo issues
 
 ## License
 
