@@ -11,7 +11,7 @@ Machine learning-kepintaran buatan dasar yang mengklasifikasi pakaian dengan fra
 -   requirement Python 3.11.^
 -   import library yang dibutuhkan cth: pip install tensorlow
 -   eksekusi di terminal cth: python FashionClassification.py
--   aya mereun? [&#9749;](https://teer.id/apta-tea)
+-   aya mereun? [&#9749;](https://teer.id/enpisi7)
 -   ada bug?, infokan  di repo issues
 
 ## License
